@@ -30,7 +30,7 @@ ENV PATH=/opt/apache-maven-3.3.9/bin:$PATH
 EXPOSE 8080
 
 RUN mkdir -p /opt/crossover
-COPY crossover/Code /opt/crossover/ 
+COPY src/Code /opt/crossover/ 
 
 WORKDIR /opt/crossover/
 
