@@ -2,4 +2,4 @@
 # mwebapp: java based web application 
 #
 
-# test mweb application ci/cd demo
+# test mweb application ci/cd demo on AWS
